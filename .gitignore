@@ -6,7 +6,7 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-/workspace.xml
+/.idea/workspace.xml
 /checkstyle-idea.xml
 /dbnavigator.xml
 /misc.xml
