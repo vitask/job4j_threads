@@ -38,7 +38,7 @@ public class AccountStorage {
         }
         accounts.put(fromId, new Account(fromId, from.amount() - amount));
         accounts.put(toId, new Account(toId, to.amount() + amount));
-        return false;
+        return true;
     }
 }
 
